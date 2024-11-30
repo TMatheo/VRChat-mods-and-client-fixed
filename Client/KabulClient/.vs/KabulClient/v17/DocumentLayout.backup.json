@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Biscuit\\Desktop\\FixedClient\\KabulClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D71D47F-E6BC-43C8-9220-A5C423C81BDF}|KabulClient.csproj|C:\\Users\\Biscuit\\Desktop\\FixedClient\\KabulClient\\hooks\\networkmanagerhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D71D47F-E6BC-43C8-9220-A5C423C81BDF}|KabulClient.csproj|solutionrelative:hooks\\networkmanagerhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkManagerHook.cs",
+              "DocumentMoniker": "C:\\Users\\Biscuit\\Desktop\\FixedClient\\KabulClient\\Hooks\\NetworkManagerHook.cs",
+              "RelativeDocumentMoniker": "Hooks\\NetworkManagerHook.cs",
+              "ToolTip": "C:\\Users\\Biscuit\\Desktop\\FixedClient\\KabulClient\\Hooks\\NetworkManagerHook.cs",
+              "RelativeToolTip": "Hooks\\NetworkManagerHook.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:46:49.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1527,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
